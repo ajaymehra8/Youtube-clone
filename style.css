@@ -2,9 +2,6 @@ body{
   font-family: 'Roboto', sans-serif;
   overflow-x:hidden;
 }
-button{
-  background-color:white;
-}
 .youtube{
   color:red;
   margin-right:1.5px;
@@ -83,6 +80,9 @@ td{
 .explore-btn{
   border:1px solid;
   border-radius:5px;
+}
+button{
+  background-color:white;
 }
 /* Explore-section */
 .explore{
