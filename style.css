@@ -163,3 +163,42 @@ margin-top:-20px;
  
 }
 }
+@media(max-width:400px){
+  .main-img1{
+    width:70%;
+  }
+  .card2nd{
+  left:150px;
+}
+.card3rd{
+  left:150px;
+}
+.card4th{
+  left:150px;
+}
+  
+  .ThText{
+  
+ 
+  width:30%;
+}
+ .details1{
+margin-top:-5px;
+  
+ 
+}
+  .first-card{
+    margin-top:20px;
+  left:100px;
+  }
+  .explore{
+  margin-left:90px;
+  margin-top:10px;
+}
+  .nav-input{
+    display:none;
+  }
+  .nav-btn1{
+right:15px;
+  }
+}
